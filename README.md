@@ -22,7 +22,7 @@ Build your own Large Language Model from the ground up! This repository provides
 ## 🚀 Tech Stack
 
 - Python
-- PyTorch
+- Tensorflow
 - HuggingFace Datasets (optional)
 - WandB / TensorBoard for training logs
 - FastAPI for deployment
@@ -34,3 +34,5 @@ Build your own Large Language Model from the ground up! This repository provides
    ```bash
    git clone https://github.com/yourusername/custom-llm-from-scratch.git
    cd custom-llm-from-scratch
+
+   
